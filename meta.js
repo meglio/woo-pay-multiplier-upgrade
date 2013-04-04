@@ -3,7 +3,7 @@
   "url": "http://www.xlr8mediainc.com/",
   "package": "http://www.xlr8mediainc.com/woocommerce-advanced-payment-suite-0.5.zip",
   "info": {
-    "name": "XLR8: Woocommerce Advanced Payment Suite",
+    "name": "XLR8: WooCommerce Advanced Payment Suite",
     "author": "<a href='http://www.xlr8mediainc.com/'>XLR8 Media</a>",
     "author_profile": "http://www.xlr8mediainc.com/",
     "requires": "3.5",
@@ -16,7 +16,7 @@
     "homepage": "http://www.xlr8mediainc.com/woocommerce-advanced-payment-suite",
     "tags": {"wordpress":"wordpress","woocommerce":"woocommerce"},
     "sections":{
-      "description": "XLR8: Woocommerce Advanced Payment Suite",
+      "description": "XLR8: WooCommerce Advanced Payment Suite",
       "installation": "As simple as 2 steps: extract in plugins folder, activate in administration panel",
       "screenshots":"",
       "changelog":"",
