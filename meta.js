@@ -1,9 +1,9 @@
 {
-  "new_version": "0.4",
+  "new_version": "0.5",
   "url": "http://www.xlr8mediainc.com/",
-  "package": "http://www.xlr8mediainc.com/woocommerce-payment-gateway-multiplier-0.4.zip",
+  "package": "http://www.xlr8mediainc.com/woocommerce-advanced-payment-suite-0.5.zip",
   "info": {
-    "name": "XLR8: WooCommerce Payment Gateway Multiplier",
+    "name": "XLR8: Woocommerce Advanced Payment Suite",
     "author": "<a href='http://www.xlr8mediainc.com/'>XLR8 Media</a>",
     "author_profile": "http://www.xlr8mediainc.com/",
     "requires": "3.5",
@@ -11,12 +11,12 @@
     "rating": 98,
     "num_ratings": 680,
     "downloaded": 1950,
-    "last_upated": "2013-04-02",
+    "last_upated": "2013-04-04",
     "added": "2013-04-01",
-    "homepage": "http://www.xlr8mediainc.com/woocommerce-payment-gateway-multiplier",
+    "homepage": "http://www.xlr8mediainc.com/woocommerce-advanced-payment-suite",
     "tags": {"wordpress":"wordpress","woocommerce":"woocommerce"},
     "sections":{
-      "description": "XLR8: WooCommerce Payment Gateway Multiplier",
+      "description": "XLR8: Woocommerce Advanced Payment Suite",
       "installation": "As simple as 2 steps: extract in plugins folder, activate in administration panel",
       "screenshots":"",
       "changelog":"",
