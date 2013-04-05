@@ -1,7 +1,7 @@
 {
-  "new_version": "0.5",
+  "new_version": "0.6",
   "url": "http://www.xlr8mediainc.com/",
-  "package": "http://www.xlr8mediainc.com/woocommerce-advanced-payment-suite-0.5.zip",
+  "package": "http://www.xlr8mediainc.com/woocommerce-advanced-payment-suite-0.6.zip",
   "info": {
     "name": "XLR8: WooCommerce Advanced Payment Suite",
     "author": "<a href='http://www.xlr8mediainc.com/'>XLR8 Media</a>",
